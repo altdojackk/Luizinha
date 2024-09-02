@@ -31,4 +31,13 @@ div.poema{
 
 div.fotos{  
     text-align: center;
+    border: solid 1px black;
+    padding: 20px;
 }
+
+.main {  
+    display: grid;  
+    grid-template-columns: 100px 100px 100px;  
+    grid-template-rows: 50px 50px;  
+}
+
