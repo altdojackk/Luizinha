@@ -51,8 +51,8 @@ div.poema{
     padding: 10px;
     margin-top:20px;
     margin-bottom: 20px;
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(50px);
+    backdrop-filter: blur(50px);
 }
 
 div.fotos{  
